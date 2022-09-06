@@ -30,8 +30,8 @@
         </item>
         <!-- A joke release testing maximumSystemVersion -->
         <item>
-            <title>Version 7.0.0</title>
-            <sparkle:version>7.0.0</sparkle:version>
+            <title>Version 1.8.6-dev</title>
+            <sparkle:version>1.8.6-dev</sparkle:version>
             <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
         </item>
     </channel>
