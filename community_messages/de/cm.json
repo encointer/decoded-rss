@@ -1,7 +1,7 @@
 {
     "msg-1": {
         "title": "App-Benachrichtigungen sind jetzt aktiviert",
-        "content": "Von jetzt an wird dir die App Benachrichtigungen deiner Gemeinschaft senden. Dies funktioniert aktuell nur für Android. Der Dienst is frei von Trackern und funktioniert ohne Google's Push-Benachrichtigungen Dienst.",
+        "content": "Von jetzt an wird dir die App Benachrichtigungen deiner Gemeinschaft senden. Dies funktioniert aktuell nur für Android. Der Dienst ist frei von Trackern und funktioniert ohne Google's Push-Benachrichtigungen Dienst.",
         "show-at": "2022-08-25T12:30:00.00+00:00"
     }
 }
