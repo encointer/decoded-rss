@@ -3,6 +3,30 @@
         "id": "msg-1",
         "title": "App-Benachrichtigungen sind jetzt aktiviert",
         "content": "Von jetzt an wird dir die App Benachrichtigungen deiner Gemeinschaft senden. Dies funktioniert aktuell nur für Android. Der Dienst ist frei von Trackern und funktioniert ohne Google's Push-Benachrichtigungen Dienst.",
-        "showAt": "2022-08-25T12:30:00.00+00:00"
-    }
+        "showAt": "2022-08-25T11:30:00.00+00:00"
+    },
+    {
+        "id": "msg-2",
+        "title": "Anmelden für Versammlung",
+        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
+        "showAt": "2022-12-07T11:30:00.00+00:00"   
+    },
+    {
+        "id": "msg-3",
+        "title": "Reminder: Versammlung morgen nicht vergessen",
+        "content": "Morgen Mittag findet die nächste Versammlung statt. Falls du dich registriert hast, plane deine Teilnahme morgen ein.",
+        "showAt": "2022-12-08T11:30:00.00+00:00"   
+    },
+    {
+        "id": "msg-4",
+        "title": "Reminder: Heutige Versammlung nicht vergessen",
+        "content": "Heute Mittag findet die Versammlung statt. Schau in der App nach welcher Treffpunkt dir zugewiesen wurde. Bis später!",
+        "showAt": "2022-12-09T08:30:00.00+00:00"     
+    },
+     {
+        "id": "msg-5",
+        "title": "Anmeldungen sind geöffnet.",
+        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Meld dich noch heute an und plane deine Teilnahme.",
+        "showAt": "2022-12-12T11:30:00.00+00:00"     
+    },
 ]
