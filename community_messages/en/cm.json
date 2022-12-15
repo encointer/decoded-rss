@@ -28,5 +28,11 @@
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
     "showAt": "2022-12-12T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-6",
+    "title": "Technical Error.",
+    "content": "Due to a technical error, you can't send transactions currently. We are working with full power to solve this. No worries: Your funds are save.",
+    "showAt": "2022-12-12T11:30:00.00+00:00"
   }
 ]
