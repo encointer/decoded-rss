@@ -34,5 +34,11 @@
     "title": "Technical Error.",
     "content": "Due to a technical error, you can't send transactions currently. We are working with full power to solve this. No worries: Your funds are save.",
     "showAt": "2022-12-12T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-7",
+    "title": "Issue resolved",
+    "content": "We are back online! Don't forget to register for the next ceremony until midnight!",
+    "showAt": "2022-12-12T11:30:00.00+00:00"
   }
 ]
