@@ -1,2 +1,98 @@
 [
+	{
+    "id": "msg-1",
+    "title": "App notifications are now activated",
+    "content": "From now on you will receive app notifications from your community. Currently, this only works for Android. The service is free of trackers and works without Google's Push-Notification service.",
+    "showAt": "2022-08-25T12:30:00.00+00:00"
+  },
+  {
+    "id": "msg-3",
+    "title": "Reminder: Gathering is held Tomorrow Noon",
+    "content": "Friendly reminder, tomorrow noon the gathering of the comming cycle will take place. If you registered for it, make sure you can attend.",
+    "showAt": "2023-01-17T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-4",
+    "title": "Reminder: Gathering Today at Noon",
+    "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
+    "showAt": "2023-01-18T08:30:00.00+00:00"
+  },
+   {
+    "id": "msg-5",
+    "title": "Registrations are Open",
+    "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
+    "showAt": "2023-01-21T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-6",
+    "title": "Last Chance to Register for Gathering",
+    "content": "Today is the last chance to register for the gatherings of the comming cycle. Already the day after tomorrow you can collect the community income.",
+    "showAt": "2023-01-26T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-7",
+    "title": "Reminder: Gathering is held Tomorrow Noon",
+    "content": "Friendly reminder, tomorrow noon the gathering of the comming cycle will take place. If you registered for it, make sure you can attend.",
+    "showAt": "2023-01-27T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-8",
+    "title": "Reminder: Gathering Today at Noon",
+    "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
+    "showAt": "2023-01-28T08:30:00.00+00:00"
+  },
+   {
+    "id": "msg-9",
+    "title": "Registrations are Open",
+    "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
+    "showAt": "2023-01-31T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-10",
+    "title": "Last Chance to Register for Gathering",
+    "content": "Today is the last chance to register for the gatherings of the comming cycle. Already the day after tomorrow you can collect the community income.",
+    "showAt": "2023-02-05T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-11",
+    "title": "Reminder: Gathering is held Tomorrow Noon",
+    "content": "Friendly reminder, tomorrow noon the gathering of the comming cycle will take place. If you registered for it, make sure you can attend.",
+    "showAt": "2023-02-06T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-12",
+    "title": "Reminder: Gathering Today at Noon",
+    "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
+    "showAt": "2023-02-07T08:30:00.00+00:00"
+  },
+   {
+    "id": "msg-13",
+    "title": "Registrations are Open",
+    "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
+    "showAt": "2023-02-10T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-14",
+    "title": "Last Chance to Register for Gathering",
+    "content": "Today is the last chance to register for the gatherings of the comming cycle. Already the day after tomorrow you can collect the community income.",
+    "showAt": "2023-02-15T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-15",
+    "title": "Reminder: Gathering is held Tomorrow Noon",
+    "content": "Friendly reminder, tomorrow noon the gathering of the comming cycle will take place. If you registered for it, make sure you can attend.",
+    "showAt": "2023-02-16T11:30:00.00+00:00"
+  },
+  {
+    "id": "msg-16",
+    "title": "Reminder: Gathering Today at Noon",
+    "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
+    "showAt": "2023-02-17T08:30:00.00+00:00"
+  },
+   {
+    "id": "msg-17",
+    "title": "Registrations are Open",
+    "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
+    "showAt": "2023-02-20T11:30:00.00+00:00"
+  }
 ]
