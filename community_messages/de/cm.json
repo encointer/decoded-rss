@@ -20,13 +20,13 @@
      {
         "id": "1000030",
         "title": "Anmeldungen sind geöffnet.",
-        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Meld dich noch heute an und plane deine Teilnahme.",
+        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Melde dich noch heute an und plane deine Teilnahme.",
         "showAt": "2023-01-21T11:30:00.00+00:00"
     },
     {
         "id": "2000030",
         "title": "Anmelden für Versammlung",
-        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
+        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden, um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
         "showAt": "2023-01-26T11:30:00.00+00:00"
     },
     {
@@ -44,13 +44,13 @@
      {
         "id": "1000031",
         "title": "Anmeldungen sind geöffnet.",
-        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Meld dich noch heute an und plane deine Teilnahme.",
+        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Melde dich noch heute an und plane deine Teilnahme.",
         "showAt": "2023-01-31T11:30:00.00+00:00"
     },
     {
         "id": "2000031",
         "title": "Anmelden für Versammlung",
-        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
+        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden, um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
         "showAt": "2023-02-05T11:30:00.00+00:00"
     },
     {
@@ -68,13 +68,13 @@
      {
         "id": "1000032",
         "title": "Anmeldungen sind geöffnet.",
-        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Meld dich noch heute an und plane deine Teilnahme.",
+        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Melde dich noch heute an und plane deine Teilnahme.",
         "showAt": "2023-02-10T11:30:00.00+00:00"
     },
     {
         "id": "2000032",
         "title": "Anmelden für Versammlung",
-        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
+        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden, um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
         "showAt": "2023-02-15T11:30:00.00+00:00"
     },
     {
@@ -92,7 +92,7 @@
      {
         "id": "1000033",
         "title": "Anmeldungen sind geöffnet.",
-        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Meld dich noch heute an und plane deine Teilnahme.",
+        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Melde dich noch heute an und plane deine Teilnahme.",
         "showAt": "2023-02-20T11:30:00.00+00:00"
     }
 ]
