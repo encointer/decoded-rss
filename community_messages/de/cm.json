@@ -94,5 +94,11 @@
         "title": "Anmeldungen sind geöffnet.",
         "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Melde dich noch heute an und plane deine Teilnahme.",
         "showAt": "2023-02-20T11:30:00.00+00:00"
-    }
+    },
+  {
+    "id": "9000000",
+    "title": "Achtung Sommerzeit",
+    "content": "In Europa ist nun wieder Sommerzeit. Folglich sind die Treffen in Zürich wieder um 12:50 Uhr.",
+    "showAt": "2023-04-01T11:30:00.00+00:00"
+  }
 ]

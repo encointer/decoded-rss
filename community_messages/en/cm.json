@@ -94,5 +94,11 @@
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week from today.",
     "showAt": "2023-02-20T11:30:00.00+00:00"
+  },
+  {
+    "id": "9000000",
+    "title": "Attention summer time",
+    "content": "Beware, in Europe it is summer time again. Hence, the gatherings in Zurich are at 12:50 PM again.",
+    "showAt": "2023-04-01T11:30:00.00+00:00"
   }
 ]
