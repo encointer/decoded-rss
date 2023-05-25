@@ -1,0 +1,98 @@
+[
+    {
+        "id": "msg-1",
+        "title": "App-Benachrichtigungen sind jetzt aktiviert",
+        "content": "Von jetzt an wird dir die App Benachrichtigungen deiner Gemeinschaft senden. Dies funktioniert aktuell nur für Android. Der Dienst ist frei von Trackern und funktioniert ohne Google's Push-Benachrichtigungen Dienst.",
+        "showAt": "2022-08-25T11:30:00.00+00:00"
+    },
+    {
+        "id": "300029",
+        "title": "Reminder: Versammlung morgen nicht vergessen",
+        "content": "Morgen Mittag findet die nächste Versammlung statt. Falls du dich registriert hast, plane deine Teilnahme morgen ein.",
+        "showAt": "2023-01-17T11:30:00.00+00:00"
+    },
+    {
+        "id": "4000029",
+        "title": "Reminder: Heutige Versammlung nicht vergessen",
+        "content": "Heute Mittag findet die Versammlung statt. Schau in der App nach, welcher Treffpunkt dir zugewiesen wurde. Bis später!",
+        "showAt": "2023-01-18T08:30:00.00+00:00"
+    },
+     {
+        "id": "1000030",
+        "title": "Anmeldungen sind geöffnet.",
+        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Melde dich noch heute an und plane deine Teilnahme.",
+        "showAt": "2023-01-21T11:30:00.00+00:00"
+    },
+    {
+        "id": "2000030",
+        "title": "Anmelden für Versammlung",
+        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden, um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
+        "showAt": "2023-01-26T11:30:00.00+00:00"
+    },
+    {
+        "id": "3000030",
+        "title": "Reminder: Versammlung morgen nicht vergessen",
+        "content": "Morgen Mittag findet die nächste Versammlung statt. Falls du dich registriert hast, plane deine Teilnahme morgen ein.",
+        "showAt": "2023-01-27T11:30:00.00+00:00"
+    },
+    {
+        "id": "4000030",
+        "title": "Reminder: Heutige Versammlung nicht vergessen",
+        "content": "Heute Mittag findet die Versammlung statt. Schau in der App nach, welcher Treffpunkt dir zugewiesen wurde. Bis später!",
+        "showAt": "2023-01-28T08:30:00.00+00:00"
+    },
+     {
+        "id": "1000031",
+        "title": "Anmeldungen sind geöffnet.",
+        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Melde dich noch heute an und plane deine Teilnahme.",
+        "showAt": "2023-01-31T11:30:00.00+00:00"
+    },
+    {
+        "id": "2000031",
+        "title": "Anmelden für Versammlung",
+        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden, um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
+        "showAt": "2023-02-05T11:30:00.00+00:00"
+    },
+    {
+        "id": "3000031",
+        "title": "Reminder: Versammlung morgen nicht vergessen",
+        "content": "Morgen Mittag findet die nächste Versammlung statt. Falls du dich registriert hast, plane deine Teilnahme morgen ein.",
+        "showAt": "2023-02-06T11:30:00.00+00:00"
+    },
+    {
+        "id": "4000031",
+        "title": "Reminder: Heutige Versammlung nicht vergessen",
+        "content": "Heute Mittag findet die Versammlung statt. Schau in der App nach, welcher Treffpunkt dir zugewiesen wurde. Bis später!",
+        "showAt": "2023-02-07T08:30:00.00+00:00"
+    },
+     {
+        "id": "1000032",
+        "title": "Anmeldungen sind geöffnet.",
+        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Melde dich noch heute an und plane deine Teilnahme.",
+        "showAt": "2023-02-10T11:30:00.00+00:00"
+    },
+    {
+        "id": "2000032",
+        "title": "Anmelden für Versammlung",
+        "content": "Heute ist die letzte Möglichkeit dich für die kommende Versammlung anzumelden, um dein Gemeinschaftseinkommen abzuholen. Diese findet schon übermorgen Mittag statt.",
+        "showAt": "2023-02-15T11:30:00.00+00:00"
+    },
+    {
+        "id": "3000032",
+        "title": "Reminder: Versammlung morgen nicht vergessen",
+        "content": "Morgen Mittag findet die nächste Versammlung statt. Falls du dich registriert hast, plane deine Teilnahme morgen ein.",
+        "showAt": "2023-02-16T11:30:00.00+00:00"
+    },
+    {
+        "id": "4000032",
+        "title": "Reminder: Heutige Versammlung nicht vergessen",
+        "content": "Heute Mittag findet die Versammlung statt. Schau in der App nach, welcher Treffpunkt dir zugewiesen wurde. Bis später!",
+        "showAt": "2023-02-17T08:30:00.00+00:00"
+    },
+     {
+        "id": "1000033",
+        "title": "Anmeldungen sind geöffnet.",
+        "content": "Die Anmeldungen für die Versammlung in einer Woche ist geöffnet. Melde dich noch heute an und plane deine Teilnahme.",
+        "showAt": "2023-02-20T11:30:00.00+00:00"
+    }
+]
