@@ -1,7 +1,11 @@
 # feed
 A GH page for rss feed of meetup times and community messages.
 
-## Community Message Format
+## Developer notes
+
+There is a `/dev` subdirectory intended for testing. Whenever the app has the developer options enabled, it will fetch the messages in the dev subdirectory.
+
+# Community Message Format
 
 ```json
    {
