@@ -1,11 +1,20 @@
 [
     {
         "communityIdentifier": "u0qj944rhWE",
-        "title": "This is a title",
+        "title": "New point of acceptance",
         "publisherSVG": "https://github.com/SourbaevaJanaraJ/lock_screen/blob/master/assets/communnity_leader_photo.png?raw=true",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac elementum orci. Etiam fringilla augue non nisi accumsan euismod. Orci varius natoque penatibus et magnis dis parturient montes, nascetur rcommunityIdentifiericulus mus.",
-        "publishDate": "2023-04-28T11:30:00.00+00:00",
+        "content": "We are very pleased that «Im Garten» is now part of the Leu ecosystem. In the garden is the flowery oasis in the MARKTHALLE, the eye-catcher between the market islands. You can find more information on our website.",
+        "publishDate": "2023-06-05T11:30:00.00+00:00",
         "isFavorite": true,
-        "countFavorite": 1
+        "countFavorite": 4
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Leu Day on June 17th",
+        "publisherSVG": "https://github.com/SourbaevaJanaraJ/lock_screen/blob/master/assets/communnity_leader_photo.png?raw=true",
+        "content": "We will be at L200 on Langstrasse from 12:15 for Leu Lunch. At 12:50 you can move into Leu together again, at the meetings: Guarantee your friends & colleagues access to the community income by giving them a leap of faith. You can find all the information on the website.",
+        "publishDate": "2023-06-15T11:30:00.00+00:00",
+        "isFavorite": true,
+        "countFavorite": 2
     }
 ]
