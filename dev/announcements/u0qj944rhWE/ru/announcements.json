@@ -1,0 +1,20 @@
+[
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Новая точка приема",
+        "publisherSVG": "https://encointer.github.io/feed/dev/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "content": "Мы очень рады тому, что «Im Garten» теперь является частью экосистемы Leu. В саду расположен цветочный оазис в MARKTHALLE, привлекательный элемент между островками рынка. Более подробную информацию вы найдете на нашем веб-сайте.",
+        "publishDate": "2023-06-05T11:30:00.00+00:00",
+        "isFavorite": true,
+        "countFavorite": 4
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "День Leu 17 июня",
+        "publisherSVG": "https://encointer.github.io/feed/dev/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "content": "Мы будем находиться в L200 на улице Лангштрассе с 12:15 на обеде Leu. В 12:50 вы сможете снова присоединиться к Leu на встречах: Обеспечьте своим друзьям и коллегам доступ к общественному доходу, дав им прыжок веры. Всю информацию вы найдете на веб-сайте.",
+        "publishDate": "2023-06-15T11:30:00.00+00:00",
+        "isFavorite": true,
+        "countFavorite": 2
+    }
+]
