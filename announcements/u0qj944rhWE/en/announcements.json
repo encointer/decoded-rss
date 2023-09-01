@@ -2,7 +2,7 @@
     {
         "communityIdentifier": "u0qj944rhWE",
         "title": "New Point of Acceptance",
-        "publisherSVG": "https://encointer.github.io/feed/dev/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
         "content": "We are very pleased that «Bewegte Integration» is part of the Leu ecosystem. Moving Integration offers systemic constellations to look at personal obstacles.  More information can be found on our website.",
         "publishDate": "2023-08-05T11:30:00.00+00:00",
         "isFavorite": true,
@@ -11,19 +11,28 @@
     {
         "communityIdentifier": "u0qj944rhWE",
         "title": "Endorse your Friends ",
-        "publisherSVG": "https://encointer.github.io/feed/dev/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
         "content": "Guarantee your friends & colleagues access to the community income by giving them an endorsment.",
         "publishDate": "2023-08-15T11:30:00.00+00:00",
-        "isFavorite": true,
+        "isFavorite": false,
         "countFavorite": 2
     },
     {
         "communityIdentifier": "u0qj944rhWE",
         "title": "Leu Cycles: New Time",
-        "publisherSVG": "https://encointer.github.io/feed/dev/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
         "content": "Fom September 5th onwards, the cycles will be held at 6 pm. This change will allow more people to participate. The schedule remains unchanged, as well as the rhythm every 10 days. You can find the information in detail on the website. As usual; direclty afterwards we'll meet at L200.",
         "publishDate": "2023-08-23T11:30:00.00+00:00",
         "isFavorite": true,
         "countFavorite": 2
+    },
+     {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "NEW: Leu Feierabend ",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "content": "With the changing cycle time, we would like to introduce «Leu Feierabend». Starting September 5th, we will meet at L200 at 6:00 pm for an after work drink together. There will be a short input from the community each time. First topic «Do your own website - how do I get my own online platform». We are looking forward to discuss and toast with you.",
+        "publishDate": "2023-08-31T11:30:00.00+00:00",
+        "isFavorite": false,
+        "countFavorite": 3
     }
 ]

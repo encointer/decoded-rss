@@ -2,7 +2,7 @@
     {
         "communityIdentifier": "u0qj944rhWE",
         "title": "Neue Akzeptanzstelle",
-        "publisherSVG": "https://encointer.github.io/feed/dev/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
         "content": "Wir freuen uns sehr, das  «Bewegte Integration» nun auch zum Leu Ökosystem dazu gehört. Bewegte Integration bietet Systemische Aufstellung, um persönliche Hindernisse anzuschauen an.  Mehr Informationen findet ihr auf unserer Website.",
         "publishDate": "2023-08-05T11:30:00.00+00:00",
         "isFavorite": true,
@@ -11,19 +11,28 @@
     {
         "communityIdentifier": "u0qj944rhWE",
         "title": "Vertrauensvorschuss",
-        "publisherSVG": "https://encointer.github.io/feed/dev/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
         "content": "Garantiert euren Freund*innen & Kolleg*innen den Zugang zum Community-Einkommen in dem ihr ihnen einen Vertrauensvorschuss gebt.",
         "publishDate": "2023-08-15T11:30:00.00+00:00",
-        "isFavorite": true,
-        "countFavorite": 1
+        "isFavorite": false,
+        "countFavorite": 2
     },
     {
         "communityIdentifier": "u0qj944rhWE",
         "title": "Leu Cylces: Neue Zeit ",
-        "publisherSVG": "https://encointer.github.io/feed/dev/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
         "content": "Ab dem 5. September finden die Versammlungen um 18 Uhr statt. Diese Änderung ermöglicht es mehr Menschen, teilzunehmen. Der Ablauf bleibt unverändert, ebenso der Rhythmus alle 10 Tage. Die Infos im Detail findet ihr auf der Webseite. Direkt danach geht es im L200 weiter.",
         "publishDate": "2023-08-23T11:30:00.00+00:00",
         "isFavorite": true,
+        "countFavorite": 2
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Neu: Leu Feierabend",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "content": "Mit der Änderung der Versammlungsuhrzeit, möchten wir den  «Leu Feierabend» einführen. Ab dem 5. September treffen wir uns ab 18:00 Uhr im L200 für ein gemeinsames Feierabendgetränk. Jedes Mal mit einen kleinen Kurzvortrag aus der Community. Wir starten mit: «Do your own website - wie krieg ich meine eigene Onlineplattform». Wir freuen uns!",
+        "publishDate": "2023-08-31T11:30:00.00+00:00",
+        "isFavorite": false,
         "countFavorite": 3
     }
 ]
