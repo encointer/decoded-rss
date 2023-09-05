@@ -1,2 +1,11 @@
 [
+    {
+        "communityIdentifier": "global",
+        "title": "New Cycle Time",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_malik.png",
+        "content": "Starting Sepember 5th the cylcle time will be moved to the evening. Reason being that live communities suggested this change.",
+        "publishDate": "2023-08-30T11:30:00.00+00:00",
+        "isFavorite": false,
+        "countFavorite": 2
+    }
 ]
