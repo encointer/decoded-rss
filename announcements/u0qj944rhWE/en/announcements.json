@@ -39,9 +39,18 @@
         "communityIdentifier": "u0qj944rhWE",
         "title": "Technical Issues Resolved",
         "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
-        "content": "Kusama, our parent blockchain, is experiencing issues. These are preventing payments, registrations, and other actions in the app. Help is on the way. We will get back to you with news.",
+        "content": "RESOLVED: Kusama, our parent blockchain, is experiencing issues. These are preventing payments, registrations, and other actions in the app. Help is on the way. We will get back to you with news.",
         "publishDate": "2023-09-01T11:30:00.00+00:00",
         "isFavorite": false,
         "countFavorite": 1
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "First Leu Feierabend",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "content": "The first Leu Feierabend was a great success. There was beer for Leu and a wonderful input about how to build a website. On Friday 15th of September there will be the next Leu Feierabend.",
+        "publishDate": "2023-09-06T11:30:00.00+00:00",
+        "isFavorite": false,
+        "countFavorite": 3
     }
 ]

@@ -37,11 +37,20 @@
     },
      {
         "communityIdentifier": "u0qj944rhWE",
-        "title": "Technische Schwierigkeiten - Behoben",
+        "title": " BEHOBEN: Technische Schwierigkeiten",
         "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
         "content": "BEHOBEN: Kusama, unserer übergeordneten Blockchain, hat technische Probleme, welche dazu führen, dass Zahlungen, Registrierungen und weitere Handlungen in der App nicht möglich sind. Hilfe ist unterwegs. Wir melden uns mit News.",
         "publishDate": "2023-09-01T11:30:00.00+00:00",
         "isFavorite": false,
         "countFavorite": 1
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "1. Leu Feierabend",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/communnity_leader_gesa.png",
+        "content": "Der erste Leu Feierabend war ein voller Erfolg. Es gab Bier für Leu und einen wunderbare Input zum bauen von Webseiten. Am Freitag 15.9. gibt es den nächsten Leu Feierabend.",
+        "publishDate": "2023-09-06T11:30:00.00+00:00",
+        "isFavorite": false,
+        "countFavorite": 3
     }
 ]
