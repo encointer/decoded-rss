@@ -34,5 +34,14 @@
         "publishDate": "2023-08-31T11:30:00.00+00:00",
         "isFavorite": true,
         "countFavorite": 1
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Veränderungen beim Leu",
+        "publisherSVG": "https://encointer.github.io/feed/dev/announcements/community_leader_icons/community_leader_malik.png",
+        "content": "Es gibt wichtige Veränderungen beim Leu: [Link](https://forum.encointer.org/t/wichtige-veranderungen-beim-leu/116), gerne laden wir zum Infoabend im L200 ein: https://www.meetup.com/leu-zuerich/events/299010660/",
+        "publishDate": "2024-02-06T20:30:00.00+00:00",
+        "isFavorite": true,
+        "countFavorite": 1
     }
 ]
