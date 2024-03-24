@@ -7,5 +7,15 @@
         "publishDate": "2023-08-30T11:30:00.00+00:00",
         "isFavorite": false,
         "countFavorite": 2
+    },
+    {
+        "communityIdentifier": "global",
+        "title": "New KSM Faucet",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/community_leader_alain.png",
+        "content": "All Encointer citizens can now get KSM benefits on top of their community income. Learn how: https://youtu.be/yoc9PDPc8lU",
+        "publishDate": "2024-03-24T08:30:00.00+00:00",
+        "isFavorite": false,
+        "countFavorite": 2
     }
+
 ]

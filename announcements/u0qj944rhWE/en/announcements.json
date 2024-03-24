@@ -51,6 +51,15 @@
         "content": "The first Leu Feierabend was a great success. There was beer for Leu and a wonderful input about how to build a website. On Friday 15th of September there will be the next Leu Feierabend.",
         "publishDate": "2023-09-06T11:30:00.00+00:00",
         "isFavorite": false,
-        "countFavorite": 3
+        "countFavorite": 1
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Major changes for Leu",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/community_leader_alain.png",
+        "content": "Leu's future depends on your initiative now. Please read https://t.ly/00e4x",
+        "publishDate": "2024-02-06T11:30:00.00+00:00",
+        "isFavorite": false,
+        "countFavorite": 1
     }
 ]
