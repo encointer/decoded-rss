@@ -61,5 +61,14 @@
         "publishDate": "2024-02-06T11:30:00.00+00:00",
         "isFavorite": false,
         "countFavorite": 1
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Anpassungen bei Akzeptanzstellen",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/community_leader_alain.png",
+        "content": "Unsere aktuellen Akzeptanzstellen findest Du hier: https://www.leu.zuerich/bazaar",
+        "publishDate": "2024-03-14T11:30:00.00+00:00",
+        "isFavorite": false,
+        "countFavorite": 1
     }
 ]
