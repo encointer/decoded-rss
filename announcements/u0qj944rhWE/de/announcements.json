@@ -79,5 +79,14 @@
         "publishDate": "2024-03-23T11:30:00.00+00:00",
         "isFavorite": false,
         "countFavorite": 1
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Sollen wir das Gemeinschaftseinkommen senken?",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/community_leader_alain.png",
+        "content": "Die Umlaufgeschwindigkeit des Leu ist stark gesunken. Im Sinne einer guten Balance zwischen Geldmenge könnten wir das Gemeinschaftseinkommen senken oder die Demurrage erhöhen. Diskutiere mit! https://forum.encointer.org/t/wie-hoch-sollte-das-gemeinschaftseinkommen-sein/52/16",
+        "publishDate": "2024-03-24T09:30:00.00+00:00",
+        "isFavorite": false,
+        "countFavorite": 1
     }
 ]
