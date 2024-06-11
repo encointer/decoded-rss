@@ -15,7 +15,15 @@
         "content": "All Encointer citizens can now get KSM benefits on top of their community income. Learn how: https://youtu.be/yoc9PDPc8lU",
         "publishDate": "2024-03-24T08:30:00.00+00:00",
         "isFavorite": false,
-        "countFavorite": 2
+        "countFavorite": 2,
+    },
+    {
+        "communityIdentifier": "global",
+        "title": "Transaction Error Alert",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/community_leader_alain.png",
+        "content": "An upgrade on Kusama has been enacted today which was only expected a few days later and the current app will not be able to send transactions until the upcoming update has been released (you'll see a 'verification error'). We'll do what we can to ship the fix within hours. We are very sorry for the inconvenience.",
+        "publishDate": "2024-06-11T13:40:00.00+00:00",
+        "isFavorite": false,
+        "countFavorite": 1
     }
-
 ]

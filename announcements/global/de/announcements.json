@@ -6,6 +6,15 @@
     "content": "Alle Encointer Bürger*innen kriegen jetzt Kusama Tokens zusätzlich zum Gemeinschaftseinkommen. Lerne wie Du Deine KSM abholen kannst: https://youtu.be/yoc9PDPc8lU",
     "publishDate": "2024-03-24T08:30:00.00+00:00",
     "isFavorite": false,
-    "countFavorite": 2
+    "countFavorite": 2,
+  },
+  {
+    "communityIdentifier": "global",
+    "title": "Warnung zu Transaktiensfehlern",
+    "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/community_leader_alain.png",
+    "content": "Ein Aktualisierung der Kusama Blockchain wurde heute früher als erwartet aktiviert, welche wir erst in ein paar Tagen erwartet hatten. Als Folge sind aktuell keine Transaktionen möglich (verification error). Wir arbeiten mit Hochdruck an einem neuen Release der App in den nächsten Stunden und entschuldignen uns für die Umstände",
+    "publishDate": "2024-06-11T13:40:00.00+00:00",
+    "isFavorite": false,
+    "countFavorite": 1
   }
 ]
