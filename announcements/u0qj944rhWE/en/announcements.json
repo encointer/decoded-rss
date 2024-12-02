@@ -88,5 +88,14 @@
         "publishDate": "2024-03-24T09:30:00.00+00:00",
         "isFavorite": false,
         "countFavorite": 1
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Democratic decision started",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/community_leader_alain.png",
+        "content": "Starting today, Leu reputables can vote on the future amount of community-issued income and the demurrage rate. Please update your app to v1.15.3. Got to Profile -Y Democracy to cast your vote. Discuss on our forum! https://forum.encointer.org/t/wie-hoch-sollte-das-gemeinschaftseinkommen-sein/52/16",
+        "publishDate": "2024-12-02T12:30:00.00+00:00",
+        "isFavorite": true,
+        "countFavorite": 1
     }
 ]
