@@ -97,5 +97,14 @@
         "publishDate": "2024-12-02T12:30:00.00+00:00",
         "isFavorite": true,
         "countFavorite": 1
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Demokratische Entscheidungen wurden umgesetzt",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/community_leader_alain.png",
+        "content": "Die Leu community hat im Dezember demokratisch entschieden, das Gemeinschaftseinkommen auf 22 Leu zu senken und die Demurrage auf 5.6% pro Monat zu erhöhen. Ab sofort gelten diese Werte. Der Fehler, welcher die Umsetzung verzögert hatte, wurde behoben.",
+        "publishDate": "2025-02-25T09:00:00.00+00:00",
+        "isFavorite": true,
+        "countFavorite": 1
     }
 ]

@@ -97,5 +97,15 @@
         "publishDate": "2024-12-02T12:30:00.00+00:00",
         "isFavorite": true,
         "countFavorite": 1
+    },
+    {
+        "communityIdentifier": "u0qj944rhWE",
+        "title": "Democratic Decisions Have Been Enacted",
+        "publisherSVG": "https://encointer.github.io/feed/announcements/community_leader_icons/community_leader_alain.png",
+        "content": "In December, the Leu community democratically decided to lower the community income to 22 Leu and increase the demurrage to 5.6% per month. These values are now in effect. The issue that delayed the enactment has been resolved.",
+        "publishDate": "2025-02-25T09:00:00.00+00:00",
+        "isFavorite": true,
+        "countFavorite": 1
     }
+
 ]
